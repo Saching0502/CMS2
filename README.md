@@ -5,8 +5,8 @@ A web-based **College Management System** designed to streamline and manage comm
 ## 📌 Repository
 
 - **Name:** `college-management-system`
-- **Owner:** [afrozsameerahmad](https://github.com/afrozsameerahmad)
-- **Repository URL:** https://github.com/afrozsameerahmad/college-management-system
+- **Owner:** [sachin](https://github.com/sachin)
+- **Repository URL:** https://github.com/sachin/college-management-system
 - **Repository ID:** `1184726890`
 
 ## 🧰 Tech Stack
@@ -62,7 +62,7 @@ Make sure you have installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/afrozsameerahmad/college-management-system.git
+git clone https://github.com/sachin/college-management-system.git
 cd college-management-system
 ```
 
@@ -129,5 +129,6 @@ If no license is added yet, include a `LICENSE` file.
 
 ## 👤 Author
 
-**Afroz Sameer Ahmad**  
-GitHub: [@afrozsameerahmad](https://github.com/afrozsameerahmad)
+**Sachin Giri**  
+GitHub: [sachin](https://github.com/saschin)
+
